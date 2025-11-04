@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{55B62800-D34B-468B-9F93-6010F1E6C69C}" SchemaVersion="123">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{55B62800-D34B-468B-9F93-6010F1E6C69C}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Location" ID="{D3A55F78-6D6D-4E07-9E48-99EFBFD8DA2B}">
+					<PropertyList>
+						<Property Name="DefaultTransitionTime" Type="Real64" Value="2"/>
+					</PropertyList>
+					<ChildrenList>
+						<State Name="None" ID="{2B340803-21E6-4397-8124-6270A1F55ED6}"/>
+						<State Name="Outside" ID="{3A90B1B3-48B6-43F7-80D8-A4BEF418197E}"/>
+						<State Name="Greenhouse" ID="{B2298178-1F03-4D9F-8840-EDC3416CE9F5}"/>
+						<State Name="Inside" ID="{23B0A018-7750-49C2-8D06-CA1902E761B6}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="Outside" ID="{3A90B1B3-48B6-43F7-80D8-A4BEF418197E}"/>
+							<EndState Name="Inside" ID="{23B0A018-7750-49C2-8D06-CA1902E761B6}"/>
+							<Time>3</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Inside" ID="{23B0A018-7750-49C2-8D06-CA1902E761B6}"/>
+							<EndState Name="Outside" ID="{3A90B1B3-48B6-43F7-80D8-A4BEF418197E}"/>
+							<Time>2.5</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Outside" ID="{3A90B1B3-48B6-43F7-80D8-A4BEF418197E}"/>
+							<EndState Name="Greenhouse" ID="{B2298178-1F03-4D9F-8840-EDC3416CE9F5}"/>
+							<Time>3.5</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Greenhouse" ID="{B2298178-1F03-4D9F-8840-EDC3416CE9F5}"/>
+							<EndState Name="Outside" ID="{3A90B1B3-48B6-43F7-80D8-A4BEF418197E}"/>
+							<Time>3</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+				<StateGroup Name="Upstairs_Downstairs" ID="{22D73EAE-B3C7-466E-A6AE-C17B6911B76D}">
+					<ChildrenList>
+						<State Name="None" ID="{C03B9DAB-46D4-425A-8C82-53BB57AD5CB6}"/>
+						<State Name="Upstairs" ID="{3524ED09-E3C8-4455-8408-67072D412640}"/>
+						<State Name="Downstairs" ID="{A6094BF8-CD2A-405C-B2EA-6D8DEEA06CF7}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="Downstairs" ID="{A6094BF8-CD2A-405C-B2EA-6D8DEEA06CF7}"/>
+							<EndState Name="Upstairs" ID="{3524ED09-E3C8-4455-8408-67072D412640}"/>
+							<Time>2</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Upstairs" ID="{3524ED09-E3C8-4455-8408-67072D412640}"/>
+							<EndState Name="Downstairs" ID="{A6094BF8-CD2A-405C-B2EA-6D8DEEA06CF7}"/>
+							<Time>3</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

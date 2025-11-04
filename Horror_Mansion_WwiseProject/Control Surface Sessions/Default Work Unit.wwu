@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6C696FDD-F961-4A49-A353-9D16EBC2252F}" SchemaVersion="123">
+	<ControlSurfaceSessions>
+		<WorkUnit Name="Default Work Unit" ID="{6C696FDD-F961-4A49-A353-9D16EBC2252F}" PersistMode="Standalone">
+			<ChildrenList>
+				<ControlSurfaceSession Name="Default Control Surface Session" ID="{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}">
+					<ChildrenList>
+						<ControlSurfaceBindingGroup Name="Global" ID="{D95F06D4-C24F-4DAC-B16B-537969035A35}"/>
+						<ControlSurfaceBindingGroup Name="Current Selection" ID="{00E49F92-EF50-415D-B7C5-509DC3E58C2A}">
+							<PropertyList>
+								<Property Name="GroupType" Type="int16" Value="4"/>
+							</PropertyList>
+							<ChildrenList>
+								<ControlSurfaceBinding Name="Binding" ID="{3AD304C2-57BA-49B5-8B74-EA9A2F1ED480}">
+									<PropertyList>
+										<Property Name="TargetName" Type="string" Value="PassMidiNote"/>
+										<Property Name="TargetType" Type="int16" Value="1"/>
+									</PropertyList>
+								</ControlSurfaceBinding>
+							</ChildrenList>
+						</ControlSurfaceBindingGroup>
+						<ControlSurfaceBindingGroup Name="View Groups" ID="{2B0E03BB-FAD1-4546-A482-8BFA19E969CF}">
+							<PropertyList>
+								<Property Name="GroupType" Type="int16" Value="3"/>
+							</PropertyList>
+						</ControlSurfaceBindingGroup>
+					</ChildrenList>
+				</ControlSurfaceSession>
+				<ControlSurfaceSession Name="SoundCaster KeyLab" ID="{61296F7E-E199-4056-B9A9-67FAE321C9BF}">
+					<ChildrenList>
+						<ControlSurfaceBindingGroup Name="Global" ID="{E6D8C7A2-84BE-4274-BEAC-1667DA419192}"/>
+						<ControlSurfaceBindingGroup Name="Current Selection" ID="{AE0F9940-B80B-439A-9278-1E2822B8653C}">
+							<PropertyList>
+								<Property Name="GroupType" Type="int16" Value="4"/>
+								<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~72"/>
+							</PropertyList>
+							<ChildrenList>
+								<ControlSurfaceBinding Name="Binding" ID="{71204A51-74CE-4BD8-BA74-99EED9F6E61F}">
+									<PropertyList>
+										<Property Name="TargetName" Type="string" Value="PassMidiNote"/>
+										<Property Name="TargetType" Type="int16" Value="1"/>
+									</PropertyList>
+								</ControlSurfaceBinding>
+							</ChildrenList>
+						</ControlSurfaceBindingGroup>
+						<ControlSurfaceBindingGroup Name="View Groups" ID="{648827E7-3E7E-4404-8909-72C12E32C57A}">
+							<PropertyList>
+								<Property Name="GroupType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ChildrenList>
+								<ControlSurfaceBindingGroup Name="Soundcaster" ID="{3B0E8FE8-F924-4821-9CB8-86D44A88C1C4}">
+									<PropertyList>
+										<Property Name="GroupType" Type="int16" Value="2"/>
+									</PropertyList>
+									<ChildrenList>
+										<ControlSurfaceBinding Name="Binding" ID="{D245D015-8884-4C68-9362-E1986C04B4CA}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~41"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{A5359CCD-68C3-4AE6-8BC7-CD92F2F363F9}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~43"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="2"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{6D60C49E-C909-4A68-87D2-8E3DCF98945F}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~45"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="3"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{7B7584C2-E18A-4107-82E6-88ACAADB3E70}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~47"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="4"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{33E9383A-3D08-4140-8055-85130044FB00}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~48"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="5"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{43B3942D-AB2C-4412-8869-F6F551701551}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~50"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="6"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{454C786C-BFA7-44FD-AD07-A4A2CCFD408E}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~52"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="7"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{5E36243F-75AD-4451-A305-79118F34103F}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~53"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="8"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{37B94B4E-38EB-4E1C-8099-C6AC096226D8}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~55"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="9"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{E10116AF-AA7D-4973-B7C4-7430F0A58C80}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~57"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="10"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{48E5557E-151A-4D3A-B4B7-E3E6011AAC26}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~59"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="11"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{83841A12-9518-4F02-B9FF-210FA522777C}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~60"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="12"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{A782D90B-BFC0-4DFD-A4A1-0CE5A039C38F}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~62"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="13"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{59789178-6053-4479-A84B-9E6B66AE3B6F}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~64"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="14"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{654B5DE1-EBDD-456F-8A37-31F81250D66F}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~65"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="15"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{BFDED86F-AC1E-4A1A-8DAF-7017DFD6415D}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~67"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="16"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{FE6AAEB8-8D45-4272-AE28-2F492B55D3A8}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~69"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="17"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{DD691C7B-9A51-415C-8736-F4DD0CFB789E}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~71"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="18"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+										<ControlSurfaceBinding Name="Binding" ID="{77F35F3F-2912-4E98-B9AF-D4EBF808D781}">
+											<PropertyList>
+												<Property Name="HardwareControllerKey" Type="string" Value="KeyStep~Ch.15~Note-On~72"/>
+												<Property Name="ObjectIndexInView" Type="int32" Value="19"/>
+												<Property Name="TargetName" Type="string" Value="TransportPlay"/>
+												<Property Name="TargetType" Type="int16" Value="1"/>
+											</PropertyList>
+										</ControlSurfaceBinding>
+									</ChildrenList>
+								</ControlSurfaceBindingGroup>
+							</ChildrenList>
+						</ControlSurfaceBindingGroup>
+					</ChildrenList>
+				</ControlSurfaceSession>
+			</ChildrenList>
+		</WorkUnit>
+	</ControlSurfaceSessions>
+</WwiseDocument>

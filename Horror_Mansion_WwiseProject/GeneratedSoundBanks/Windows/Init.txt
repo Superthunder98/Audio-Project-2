@@ -1,0 +1,39 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1176052424	Location			\Default Work Unit\Location	
+	1978863953	Upstairs_Downstairs			\Default Work Unit\Upstairs_Downstairs	
+
+State	ID	Name	State Group			Notes
+	438105790	Outside	Location			
+	748895195	None	Location			
+	3553349781	Inside	Location			
+	4238926114	Greenhouse	Location			
+	748895195	None	Upstairs_Downstairs			
+	769052060	Upstairs	Upstairs_Downstairs			
+	4106209011	Downstairs	Upstairs_Downstairs			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	77985649	Bus_Volume_Ambience			\Default Work Unit\Bus_Volume_Ambience	
+	194530214	Bus_Volume_SFX			\Default Work Unit\Bus_Volume_SFX	
+	2849708270	Bus_Volume_Music			\Default Work Unit\Bus_Volume_Music	
+	4073739390	Bus_Volume_Footsteps			\Default Work Unit\Bus_Volume_Footsteps	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1502772432	SFX Bus			\Default Work Unit\Master Audio Bus\SFX Bus	
+	2247540952	Footsteps Bus			\Default Work Unit\Master Audio Bus\Footsteps Bus	
+	3127962312	Music Bus			\Default Work Unit\Master Audio Bus\Music Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3918844680	Player Dialogue			\Default Work Unit\Master Audio Bus\SFX Bus\Player Dialogue	
+	4202237879	Ambience Bus			\Default Work Unit\Master Audio Bus\Ambience Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2212044742	Aux_Reverb_Demo			\Default Work Unit\Master Audio Bus\Aux_Reverb_Demo	
+
+Effect plug-ins	ID	Name	Type				Notes
+	484890516	Church_Small_Wood	Wwise RoomVerb			
+	587732814	Meter (Custom)	Wwise Meter			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	2396789687	Auxiliary	Auxiliary			
+	3859886410	System	System			
+

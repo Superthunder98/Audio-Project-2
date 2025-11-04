@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dce86dac55254186a2b637f31bb3f2c, type: 3}
+  m_Name: 363AA09B-E08C-4480-B683-DAB0E5D86E3E
+  m_EditorClassIdentifier: 
+  objectName: Pickup
+  id: 3978245845
+  guid: 363AA09B-E08C-4480-B683-DAB0E5D86E3E
+  IsInUserDefinedSoundBank: 1

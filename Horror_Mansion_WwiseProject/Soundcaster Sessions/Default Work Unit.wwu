@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{80D34CCC-0FC9-498A-9A19-D673507EB59F}" SchemaVersion="123">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{80D34CCC-0FC9-498A-9A19-D673507EB59F}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Soundcaster" ID="{9474CA0A-2069-4BC3-9ECE-9E12E10434FA}">
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Bus_Volume_SFX" ID="{62ED8408-2049-46E5-ACCB-266ECBB822AF}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Aux_Basement_Reverb" ID="{6D429EAF-C12A-4937-87A6-A12A878228DE}"/>
+							<Value>-96</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Aux_Cathedral_Reverb" ID="{938CA322-1F84-4F6D-B86B-2234247A31B4}"/>
+							<Value>-50</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Inside" ID="{23B0A018-7750-49C2-8D06-CA1902E761B6}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Carpet" ID="{81BA2B2C-E5A7-4698-BE1D-12447EE52E71}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+				<SoundcasterSession Name="SoundCaster footsteps" ID="{3AD64256-0878-4F02-825A-AFD4AD5346E1}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Light switch" ID="{7A0A952E-D755-4FDA-B18C-6EB8A9003CCD}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Wood" ID="{0179F37D-0C81-4D01-ACF3-6FC51124C3B1}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Concrete" ID="{49D30044-EEC1-4ED9-B8D4-7CA5D0DB8B20}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Gravel" ID="{4FE8E207-D32D-49E7-B3C9-5030326E5A95}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Dirt" ID="{7161DACC-628A-457A-9A10-53542E053691}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Tile" ID="{FA766D2D-9716-422D-9A9E-682ADBDF6173}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Grass" ID="{E79AA14F-9829-4110-A1AF-EBF50AA796FE}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{C03B9DAB-46D4-425A-8C82-53BB57AD5CB6}"/>
+						<CurrentStateRef Name="None" ID="{2B340803-21E6-4397-8124-6270A1F55ED6}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Carpet" ID="{81BA2B2C-E5A7-4698-BE1D-12447EE52E71}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

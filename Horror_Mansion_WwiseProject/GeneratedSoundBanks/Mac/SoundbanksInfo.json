@@ -303,7 +303,7 @@
     "Type": "User",
     "GUID": "{68FEB4CA-3C1B-4018-848B-070A85B21B05}",
     "Language": "SFX",
-    "Hash": "{5DD168B9-5BF5-6353-7C67-A65D363870A3}",
+    "Hash": "{D4B75081-1297-C47B-38B2-CB8EC8FB9FCE}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -314,7 +314,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Door - Light close.wav",
-      "CachePath": "C5/{C50DA97F-5904-F4F6-A846-0BAD2D5CD7A5}.wem"
+      "CachePath": "04/{046736FD-BFBF-1FA1-775A-B83784E4FF7C}.wem"
      },
      {
       "Id": "144025528",
@@ -373,6 +373,14 @@
       "CachePath": "F7/{F73D6E7D-4AE8-B2E7-8193-417794EFF8E1}.wem"
      },
      {
+      "Id": "454732799",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Silent Night.wav",
+      "CachePath": "C9/{C97F59E6-F7DC-2B63-86DD-78BAD7529AEE}.wem"
+     },
+     {
       "Id": "469463637",
       "Language": "SFX",
       "Streaming": "false",
@@ -426,7 +434,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Phone Ring.wav",
-      "CachePath": "D6/{D61EEBD1-D1C3-5953-B4ED-B20321CA820C}.wem"
+      "CachePath": "5F/{5FFEC16C-12D7-E270-A190-844C454A8F7B}.wem"
      },
      {
       "Id": "735793067",
@@ -450,7 +458,7 @@
       "Streaming": "false",
       "Location": "Memory",
       "ShortName": "Door - Light open.wav",
-      "CachePath": "DF/{DFEEAADB-6B09-87BE-887A-B2FB9A3D44FA}.wem"
+      "CachePath": "96/{9612EBAE-42EB-9B39-1D12-D1A9D0F4BBE1}.wem"
      },
      {
       "Id": "885414017",
@@ -530,6 +538,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Pickup",
       "GUID": "{363AA09B-E08C-4480-B683-DAB0E5D86E3E}",
       "Color": "3",
+      "MaxAttenuation": "100",
       "DurationType": "OneShot",
       "DurationMin": "0.09166667",
       "DurationMax": "0.09166667",
@@ -552,7 +561,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Wildlife\\Play_Crows_Random_Container",
       "GUID": "{D6A26710-B754-40C7-A8D2-08D9E4DCB5F5}",
       "Color": "13",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "OneShot",
       "DurationMin": "0.15941043",
       "DurationMax": "0.15941043",
@@ -568,7 +577,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_basement_bulkhead_close",
       "GUID": "{E6D72621-739A-4928-9F53-2C99CEAB9B4E}",
       "Color": "13",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "OneShot",
       "DurationMin": "0.09166667",
       "DurationMax": "0.09166667",
@@ -599,7 +608,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_heavy_close",
       "GUID": "{F0042055-8FFF-495F-9B9B-531B35EEEAA7}",
       "Color": "13",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "OneShot",
       "DurationMin": "0.09166667",
       "DurationMax": "0.09166667",
@@ -630,7 +639,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_light_close",
       "GUID": "{BB490319-2FA9-402A-880A-6A183B970788}",
       "Color": "13",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "OneShot",
       "DurationMin": "0.7336179",
       "DurationMax": "0.7336179",
@@ -661,7 +670,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_medium_close",
       "GUID": "{91BD7630-4AAE-43D1-9660-4F028D3D3C46}",
       "Color": "13",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "OneShot",
       "DurationMin": "0.09166667",
       "DurationMax": "0.09166667",
@@ -888,7 +897,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Play_Fridge",
       "GUID": "{8416F327-0DB5-46FC-B4C2-4CA84482B068}",
       "Color": "9",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -902,7 +911,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Play_Furnace_fire_crackles",
       "GUID": "{10690DFE-2D2C-4529-8DDC-47F01E9AC892}",
       "Color": "9",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -916,7 +925,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Play_Furnace_rumbles",
       "GUID": "{F2A127B4-3E8B-464B-A4F1-4E78A82DE629}",
       "Color": "9",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -930,12 +939,13 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Gramophone",
       "GUID": "{2CBEB35A-ECB5-479E-B64A-B5638A5BAE6E}",
       "Color": "3",
+      "MaxAttenuation": "30",
       "DurationType": "OneShot",
-      "DurationMin": "0.09166667",
-      "DurationMax": "0.09166667",
+      "DurationMin": "210",
+      "DurationMax": "210",
       "MediaRefs": [
        {
-        "Id": "311063892"
+        "Id": "454732799"
        }
       ]
      },
@@ -945,7 +955,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Clocks\\Play_Grandfather_Clock_Ticking",
       "GUID": "{A15199B0-F54B-4441-B224-B4258866278A}",
       "Color": "9",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -1018,6 +1028,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Light_switch",
       "GUID": "{F3E1D625-D9C8-4217-ACA4-73024FCB254C}",
       "Color": "3",
+      "MaxAttenuation": "100",
       "DurationType": "OneShot",
       "DurationMin": "0.09166667",
       "DurationMax": "0.09166667",
@@ -1081,7 +1092,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Piano",
       "GUID": "{526C2370-BFF8-4EF5-9CC0-024299AF2C21}",
       "Color": "3",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "OneShot",
       "DurationMin": "0.09166667",
       "DurationMax": "0.09166667",
@@ -1111,7 +1122,7 @@
       "Name": "Play_Telephone_pickup",
       "ObjectPath": "\\Events\\Default Work Unit\\Phone\\Play_Telephone_pickup",
       "GUID": "{4DC13EA4-9431-4719-9373-5518BD6ACF08}",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "OneShot",
       "DurationMin": "0.09166667",
       "DurationMax": "0.09166667",
@@ -1133,7 +1144,7 @@
       "Name": "Play_Telephone_Ring",
       "ObjectPath": "\\Events\\Default Work Unit\\Phone\\Play_Telephone_Ring",
       "GUID": "{8290DAC2-FD6C-4B3D-9077-CC1E22880401}",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -1226,7 +1237,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Clocks\\Play_Wall_Clock",
       "GUID": "{F2612BC0-EA17-4837-9E8B-382EAD5D4034}",
       "Color": "9",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -1261,7 +1272,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Play_Water_drip_sequence",
       "GUID": "{F175395F-A88D-4432-AF47-BCC3DC40EC1D}",
       "Color": "9",
-      "MaxAttenuation": "40",
+      "MaxAttenuation": "30",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -1336,7 +1347,7 @@
       "DurationMax": "0",
       "MediaRefs": [
        {
-        "Id": "311063892"
+        "Id": "454732799"
        }
       ]
      }
@@ -1500,6 +1511,6 @@
     ]
    }
   ],
-  "FileHash": "{8353BC80-9B95-DA42-1D22-D884BFA4C791}"
+  "FileHash": "{A5175566-EA6E-24AB-132A-D2E761E4F092}"
  }
 }

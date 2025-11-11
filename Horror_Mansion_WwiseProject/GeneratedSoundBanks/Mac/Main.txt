@@ -87,7 +87,7 @@ Effect plug-ins	ID	Name	Type				Notes
 	4239446561	Dual_Filters_Narrow_Bandwidth	Wwise Parametric EQ			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	118860168	Door - light close	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\C5\{C50DA97F-5904-F4F6-A846-0BAD2D5CD7A5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Door - light\Door - light close		140952
+	118860168	Door - light close	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\04\{046736FD-BFBF-1FA1-775A-B83784E4FF7C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Door - light\Door - light close		140952
 	144025528	Thunder 4	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\0F\{0F42EE7C-A0DC-AB4C-F98F-5799C907469A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences and Music\Thunder\Thunder 4		1689696
 	192499113	Thunder 1	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\18\{186755DF-634E-C080-3F24-884B7FEEB514}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences and Music\Thunder\Thunder 1		4116576
 	220000182	Tick 1	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\3D\{3D3530A4-AE4F-8FCE-DB7B-FECEB4DA0A3D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX General\Clocks\Small clocks\Tick\Tick 1		67296
@@ -95,16 +95,17 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	311063892	Toilet flush	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\71\{716F7A9B-8DCA-9AE1-6D09-AAE14927AF08}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactables\Toilet flush		8896
 	389546834	Silence	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\05\{05645C52-5D86-D254-AE09-F1EC97848C60}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footsteps - switch\Carpet\Silence		14156
 	411611432	Thunder 3	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\F7\{F73D6E7D-4AE8-B2E7-8193-417794EFF8E1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences and Music\Thunder\Thunder 3		1251936
+	454732799	Gramophone music	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\C9\{C97F59E6-F7DC-2B63-86DD-78BAD7529AEE}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactables\Gramophone music		37044096
 	469463637	Tick 3	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\8E\{8E6C23BA-A560-7928-73B9-302711A399F9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX General\Clocks\Small clocks\Tick\Tick 3		67296
 	573851758	Thunder 6	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\85\{85F04EBA-E1F4-9C92-9D4D-8F15213A43BD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences and Music\Thunder\Thunder 6		1428576
 	629568929	Ambience Abandoned Building	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\07\{0742D5EA-D81F-4DF3-E865-DC1E62A8104D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences and Music\Ambience and Music Blend Container - Inside\Ambience Abandoned Building		14156
 	633031076	Thunder 7	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\E7\{E7701B1E-57A5-75C4-B3CE-8C45554EE1B6}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences and Music\Thunder\Thunder 7		3016784
 	644273008	Thunder 8	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\35\{356E105D-CCCF-6C15-B69D-0BCADBE05285}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences and Music\Thunder\Thunder 8		2304096
 	698173216	Thunder 2	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\38\{38A02390-83AE-0DE4-9269-ED7093332139}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences and Music\Thunder\Thunder 2		1490016
-	733000665	Telephone ring	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\D6\{D61EEBD1-D1C3-5953-B4ED-B20321CA820C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactables\Phone - mixer\Telephone ring		2880036
+	733000665	Telephone ring	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\5F\{5FFEC16C-12D7-E270-A190-844C454A8F7B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactables\Phone - mixer\Telephone ring		2880036
 	735793067	Tock 4	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\5F\{5F5BB9C9-937A-039C-1363-DF5E16B589C9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX General\Clocks\Small clocks\Tock\Tock 4		67296
 	792519786	Tock 3	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\08\{081F3F20-216B-4E4A-3EB0-D0FC668B33A0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX General\Clocks\Small clocks\Tock\Tock 3		67296
-	823931537	Door - light open	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\DF\{DFEEAADB-6B09-87BE-887A-B2FB9A3D44FA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Door - light\Door - light open		283944
+	823931537	Door - light open	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\96\{9612EBAE-42EB-9B39-1D12-D1A9D0F4BBE1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Doors\Door - light\Door - light open		283944
 	885414017	Tick 2	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\4C\{4C58372B-4EA1-7B69-C250-18770260775D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX General\Clocks\Small clocks\Tick\Tick 2		67296
 	897939845	Tick 4	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\80\{8005151A-DAD3-AB43-8758-0C37421BD37A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX General\Clocks\Small clocks\Tick\Tick 4		67296
 	900546044	Tock 2	D:\_Horror_Mansion_\Horror_Mansion_WwiseProject\.cache\58\{585E51CE-3C3D-057D-0B24-6621702E11BD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX General\Clocks\Small clocks\Tock\Tock 2		67296

@@ -24,7 +24,7 @@ MonoBehaviour:
     ParentPath: Virtual Acoustics\Default Work Unit
     guid: 27768ed3e9dffa44ad32cf84809e6ef9
     GuidInternal: 
-    m_lastTime: -8584393770662169104
+    m_lastTime: -8584384943558545553
     List: []
   AuxBusWwu:
   - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
@@ -38,7 +38,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: 33b45dc497d7674e951e85bd25c4d08a
     GuidInternal: 
-    m_lastTime: -8584393770664180330
+    m_lastTime: -8584384943563414865
     List:
     - name: Ambience Bus
       guid: cb515b18a5543046b64fe52aea6a79c0
@@ -172,7 +172,7 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: dcb4d7198b398648bfe43bd47ff8023e
     GuidInternal: 
-    m_lastTime: -8584393770662973383
+    m_lastTime: -8584384943558585591
     List:
     - name: Main
       guid: cab4fe681b3c1840848b070a85b21b05
@@ -200,7 +200,7 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: b94152b09dca0742a86dd5712aef856b
     GuidInternal: 
-    m_lastTime: -8584393770666014354
+    m_lastTime: -8584384943569475274
     List:
     - name: Ambiences & Music
       guid: 4e39e7c42af38f44b391efbc7e2b04fc
@@ -1096,7 +1096,7 @@ MonoBehaviour:
     ParentPath: Game Parameters\Default Work Unit
     guid: 5568e0985ad2cd4baa68668da6314033
     GuidInternal: 
-    m_lastTime: -8584393770665948929
+    m_lastTime: -8584384943569465226
     List:
     - name: Aux_Basement_Reverb
       guid: af9e426d2ac1374987a6a12a878228de
@@ -1236,7 +1236,7 @@ MonoBehaviour:
     ParentPath: States\Default Work Unit
     guid: 0028b6554bd38b469f936010f1e6c69c
     GuidInternal: 
-    m_lastTime: -8584393770662818256
+    m_lastTime: -8584384943558565575
     List:
     - name: Location
       guid: 785fa5d36d6d074e9e4899efbfd8da2b
@@ -1398,7 +1398,7 @@ MonoBehaviour:
     ParentPath: Switches\Default Work Unit
     guid: d8e702f41c585a4eb5314849d1ca2753
     GuidInternal: 
-    m_lastTime: -8584393770662379347
+    m_lastTime: -8584384943558555567
     List:
     - name: SurfaceType
       guid: 0681cadb81e17840843243acec4a73d3
@@ -1542,7 +1542,7 @@ MonoBehaviour:
     ParentPath: Triggers\Default Work Unit
     guid: b773f2044296854eb2aa0f8c68ffb6df
     GuidInternal: 
-    m_lastTime: -8584393770662238987
+    m_lastTime: -8584384943558545553
     List: []
   ExpandedFileSystemItemIds: 
   ExpandedWaapiItemIds: 0500000006000000070000000d000000440000004500000046000000

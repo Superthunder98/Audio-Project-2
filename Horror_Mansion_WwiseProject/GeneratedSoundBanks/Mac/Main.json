@@ -1,0 +1,1207 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{68FEB4CA-3C1B-4018-848B-070A85B21B05}",
+    "Language": "SFX",
+    "Hash": "{D79EB8DA-F623-85D7-11D3-DEF24F62A0A3}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "118860168",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Door - Light close.wav",
+      "CachePath": "04/{046736FD-BFBF-1FA1-775A-B83784E4FF7C}.wem"
+     },
+     {
+      "Id": "144025528",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Thunder 4.wav",
+      "CachePath": "0F/{0F42EE7C-A0DC-AB4C-F98F-5799C907469A}.wem"
+     },
+     {
+      "Id": "192499113",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Thunder 1.wav",
+      "CachePath": "18/{186755DF-634E-C080-3F24-884B7FEEB514}.wem"
+     },
+     {
+      "Id": "220000182",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tick 1.wav",
+      "CachePath": "3D/{3D3530A4-AE4F-8FCE-DB7B-FECEB4DA0A3D}.wem"
+     },
+     {
+      "Id": "264252044",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Thunder 5.wav",
+      "CachePath": "02/{0243FCC6-0A53-E062-B1A9-AD80B6275D66}.wem"
+     },
+     {
+      "Id": "311063892",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Beep.wav",
+      "CachePath": "71/{716F7A9B-8DCA-9AE1-6D09-AAE14927AF08}.wem"
+     },
+     {
+      "Id": "389546834",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Silence.wav",
+      "CachePath": "05/{05645C52-5D86-D254-AE09-F1EC97848C60}.wem"
+     },
+     {
+      "Id": "411611432",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Thunder 3.wav",
+      "CachePath": "F7/{F73D6E7D-4AE8-B2E7-8193-417794EFF8E1}.wem"
+     },
+     {
+      "Id": "454732799",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Silent Night.wav",
+      "CachePath": "C9/{C97F59E6-F7DC-2B63-86DD-78BAD7529AEE}.wem"
+     },
+     {
+      "Id": "469463637",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tick 3.wav",
+      "CachePath": "8E/{8E6C23BA-A560-7928-73B9-302711A399F9}.wem"
+     },
+     {
+      "Id": "573851758",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Thunder 6.wav",
+      "CachePath": "85/{85F04EBA-E1F4-9C92-9D4D-8F15213A43BD}.wem"
+     },
+     {
+      "Id": "629568929",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Silence.wav",
+      "CachePath": "07/{0742D5EA-D81F-4DF3-E865-DC1E62A8104D}.wem"
+     },
+     {
+      "Id": "633031076",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Thunder 7.wav",
+      "CachePath": "E7/{E7701B1E-57A5-75C4-B3CE-8C45554EE1B6}.wem"
+     },
+     {
+      "Id": "644273008",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Thunder 8.wav",
+      "CachePath": "35/{356E105D-CCCF-6C15-B69D-0BCADBE05285}.wem"
+     },
+     {
+      "Id": "692757852",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Light switch.wav",
+      "CachePath": "2A/{2A7B6823-0B51-02BE-C25D-9235E44A0F54}.wem"
+     },
+     {
+      "Id": "698173216",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Thunder 2.wav",
+      "CachePath": "38/{38A02390-83AE-0DE4-9269-ED7093332139}.wem"
+     },
+     {
+      "Id": "733000665",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Phone Ring.wav",
+      "CachePath": "5F/{5FFEC16C-12D7-E270-A190-844C454A8F7B}.wem"
+     },
+     {
+      "Id": "735793067",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tock 4.wav",
+      "CachePath": "5F/{5F5BB9C9-937A-039C-1363-DF5E16B589C9}.wem"
+     },
+     {
+      "Id": "792519786",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tock 3.wav",
+      "CachePath": "08/{081F3F20-216B-4E4A-3EB0-D0FC668B33A0}.wem"
+     },
+     {
+      "Id": "823931537",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Door - Light open.wav",
+      "CachePath": "96/{9612EBAE-42EB-9B39-1D12-D1A9D0F4BBE1}.wem"
+     },
+     {
+      "Id": "885414017",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tick 2.wav",
+      "CachePath": "4C/{4C58372B-4EA1-7B69-C250-18770260775D}.wem"
+     },
+     {
+      "Id": "897939845",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tick 4.wav",
+      "CachePath": "80/{8005151A-DAD3-AB43-8758-0C37421BD37A}.wem"
+     },
+     {
+      "Id": "900546044",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tock 2.wav",
+      "CachePath": "58/{585E51CE-3C3D-057D-0B24-6621702E11BD}.wem"
+     },
+     {
+      "Id": "965109888",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Tock 1.wav",
+      "CachePath": "4B/{4B58A94E-DB13-DB0A-87D9-31072B12C0D2}.wem"
+     }
+    ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "587732814",
+       "Name": "Meter (Custom)",
+       "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\[Effect Slot [0]: (Meter)]\\Meter (Custom)",
+       "GUID": "{4BB6FE61-4BF9-4A78-B67F-4E3F19AEA298}",
+       "LibName": "Wwise Meter",
+       "LibId": "8454147"
+      },
+      {
+       "Id": "761385337",
+       "Name": "Time Stretch (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Interactables\\Light switch\\[Effect Slot [1]: (Time Stretch)]\\Time Stretch (Custom)",
+       "GUID": "{FCE5C263-447F-44F0-9F32-27000D7AEF7B}",
+       "LibName": "Wwise Time Stretch",
+       "LibId": "8519683"
+      }
+     ],
+     "ShareSets": [
+      {
+       "Id": "484890516",
+       "Name": "Church_Small_Wood",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Cathedrals\\Church_Small_Wood",
+       "GUID": "{940CCB47-F031-4C6A-B0E6-726CAC418C02}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      },
+      {
+       "Id": "4239446561",
+       "Name": "Dual_Filters_Narrow_Bandwidth",
+       "ObjectPath": "\\Effects\\Factory Effects\\Parametric EQ\\Band Pass Filters\\Dual_Filters_Narrow_Bandwidth",
+       "GUID": "{A24607C6-04E1-4D41-B513-28C0914D138D}",
+       "LibName": "Wwise Parametric EQ",
+       "LibId": "6881283"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "3978245845",
+      "Name": "Pickup",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Pickup",
+      "GUID": "{363AA09B-E08C-4480-B683-DAB0E5D86E3E}",
+      "Color": "3",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "820444688",
+      "Name": "Play_Crows_Random_Container",
+      "ObjectPath": "\\Events\\Default Work Unit\\Wildlife\\Play_Crows_Random_Container",
+      "GUID": "{D6A26710-B754-40C7-A8D2-08D9E4DCB5F5}",
+      "Color": "13",
+      "MaxAttenuation": "30",
+      "DurationType": "OneShot",
+      "DurationMin": "0.15941043",
+      "DurationMax": "0.15941043",
+      "MediaRefs": [
+       {
+        "Id": "389546834"
+       }
+      ]
+     },
+     {
+      "Id": "1751998966",
+      "Name": "Play_door_basement_bulkhead_close",
+      "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_basement_bulkhead_close",
+      "GUID": "{E6D72621-739A-4928-9F53-2C99CEAB9B4E}",
+      "Color": "13",
+      "MaxAttenuation": "30",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "3610768546",
+      "Name": "Play_door_basement_bulkhead_open",
+      "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_basement_bulkhead_open",
+      "GUID": "{DD7C80E2-6279-4086-9E9E-7AFF708788A0}",
+      "Color": "13",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "1205379775",
+      "Name": "Play_door_heavy_close",
+      "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_heavy_close",
+      "GUID": "{F0042055-8FFF-495F-9B9B-531B35EEEAA7}",
+      "Color": "13",
+      "MaxAttenuation": "30",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "79903961",
+      "Name": "Play_door_heavy_open",
+      "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_heavy_open",
+      "GUID": "{7472EE9E-06A8-41C6-A04A-324CFE2A7F5C}",
+      "Color": "13",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "106752682",
+      "Name": "Play_door_light_close",
+      "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_light_close",
+      "GUID": "{BB490319-2FA9-402A-880A-6A183B970788}",
+      "Color": "13",
+      "MaxAttenuation": "30",
+      "DurationType": "OneShot",
+      "DurationMin": "0.7336179",
+      "DurationMax": "0.7336179",
+      "MediaRefs": [
+       {
+        "Id": "118860168"
+       }
+      ]
+     },
+     {
+      "Id": "2289407054",
+      "Name": "Play_door_light_open",
+      "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_light_open",
+      "GUID": "{272FD2E9-613E-419A-8CF9-ED3D06B3A35B}",
+      "Color": "13",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4783769",
+      "DurationMax": "1.4783769",
+      "MediaRefs": [
+       {
+        "Id": "823931537"
+       }
+      ]
+     },
+     {
+      "Id": "2277063673",
+      "Name": "Play_door_medium_close",
+      "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_medium_close",
+      "GUID": "{91BD7630-4AAE-43D1-9660-4F028D3D3C46}",
+      "Color": "13",
+      "MaxAttenuation": "30",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "3201265835",
+      "Name": "Play_door_medium_open",
+      "ObjectPath": "\\Events\\Default Work Unit\\Doors\\Play_door_medium_open",
+      "GUID": "{BF9CD8BE-053F-4F5E-96C5-89070B0379DA}",
+      "Color": "13",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "1602358412",
+      "Name": "Play_Footstep",
+      "ObjectPath": "\\Events\\Default Work Unit\\Footsteps\\Play_Footstep",
+      "GUID": "{037A63B8-9293-449D-A914-EF235A929EB8}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "0.15941043",
+      "DurationMax": "0.15941043",
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2195636714",
+         "GUID": "{D628BF12-D148-4FA5-96E6-00761494922F}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2412606308",
+         "GUID": "{81BA2B2C-E5A7-4698-BE1D-12447EE52E71}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2637588553",
+         "GUID": "{F3037857-4840-4C13-9F3D-2013E814C897}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "841620460",
+         "GUID": "{F7785174-FA81-432E-AC92-562901ED8FD5}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2058049674",
+         "GUID": "{35B4EA7B-110E-4113-A606-90897BF3F43D}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2185786256",
+         "GUID": "{00A08082-511F-4A2A-A644-5F04DFDE41B0}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "4248645337",
+         "GUID": "{A4D3778C-AD6B-4556-9CF7-EA478516188D}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2195636714",
+         "GUID": "{D628BF12-D148-4FA5-96E6-00761494922F}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2412606308",
+         "GUID": "{81BA2B2C-E5A7-4698-BE1D-12447EE52E71}",
+         "Default": "true"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2637588553",
+         "GUID": "{F3037857-4840-4C13-9F3D-2013E814C897}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "841620460",
+         "GUID": "{F7785174-FA81-432E-AC92-562901ED8FD5}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2058049674",
+         "GUID": "{35B4EA7B-110E-4113-A606-90897BF3F43D}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "2185786256",
+         "GUID": "{00A08082-511F-4A2A-A644-5F04DFDE41B0}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "Switch",
+         "GroupId": "63790334",
+         "Id": "4248645337",
+         "GUID": "{A4D3778C-AD6B-4556-9CF7-EA478516188D}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "389546834"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "2316918641",
+      "Name": "Play_Fridge",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Play_Fridge",
+      "GUID": "{8416F327-0DB5-46FC-B4C2-4CA84482B068}",
+      "Color": "9",
+      "MaxAttenuation": "30",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "629568929"
+       }
+      ]
+     },
+     {
+      "Id": "1171153354",
+      "Name": "Play_Furnace_fire_crackles",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Play_Furnace_fire_crackles",
+      "GUID": "{10690DFE-2D2C-4529-8DDC-47F01E9AC892}",
+      "Color": "9",
+      "MaxAttenuation": "30",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "629568929"
+       }
+      ]
+     },
+     {
+      "Id": "1660495545",
+      "Name": "Play_Furnace_rumbles",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Play_Furnace_rumbles",
+      "GUID": "{F2A127B4-3E8B-464B-A4F1-4E78A82DE629}",
+      "Color": "9",
+      "MaxAttenuation": "30",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "629568929"
+       }
+      ]
+     },
+     {
+      "Id": "930871454",
+      "Name": "Play_Gramophone",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Gramophone",
+      "GUID": "{2CBEB35A-ECB5-479E-B64A-B5638A5BAE6E}",
+      "Color": "3",
+      "MaxAttenuation": "30",
+      "DurationType": "OneShot",
+      "DurationMin": "210",
+      "DurationMax": "210",
+      "MediaRefs": [
+       {
+        "Id": "454732799"
+       }
+      ]
+     },
+     {
+      "Id": "3529309445",
+      "Name": "Play_Grandfather_Clock_Ticking",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Clocks\\Play_Grandfather_Clock_Ticking",
+      "GUID": "{A15199B0-F54B-4441-B224-B4258866278A}",
+      "Color": "9",
+      "MaxAttenuation": "30",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "389546834"
+       }
+      ]
+     },
+     {
+      "Id": "4139471422",
+      "Name": "Play_Greenhouse_Ambience_and_Music_Blend_Container",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences & Music\\Play_Greenhouse_Ambience_and_Music_Blend_Container",
+      "GUID": "{A7C05145-8BC5-4BF7-AF2D-30F0CD062FBB}",
+      "Color": "15",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "629568929"
+       }
+      ]
+     },
+     {
+      "Id": "1551283559",
+      "Name": "Play_Inside_Ambience_and_Music_Blend_Container",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences & Music\\Play_Inside_Ambience_and_Music_Blend_Container",
+      "GUID": "{186682BA-FFC9-48D3-A130-F54292D81BC9}",
+      "Color": "15",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "389546834"
+       },
+       {
+        "Id": "629568929"
+       }
+      ]
+     },
+     {
+      "Id": "3689126666",
+      "Name": "Play_Jump",
+      "ObjectPath": "\\Events\\Default Work Unit\\Footsteps\\Play_Jump",
+      "GUID": "{674C48F8-7938-4D07-97D2-87604770E4BF}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "0.15941043",
+      "DurationMax": "0.15941043",
+      "MediaRefs": [
+       {
+        "Id": "389546834"
+       }
+      ]
+     },
+     {
+      "Id": "2323405115",
+      "Name": "Play_Landing",
+      "ObjectPath": "\\Events\\Default Work Unit\\Footsteps\\Play_Landing",
+      "GUID": "{16E4E789-8A2E-4E66-A1EE-F6DEF6D27ECC}",
+      "Color": "11",
+      "DurationType": "OneShot",
+      "DurationMin": "0.15941043",
+      "DurationMax": "0.15941043",
+      "MediaRefs": [
+       {
+        "Id": "389546834"
+       }
+      ]
+     },
+     {
+      "Id": "1241030149",
+      "Name": "Play_Light_switch",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Light_switch",
+      "GUID": "{F3E1D625-D9C8-4217-ACA4-73024FCB254C}",
+      "Color": "3",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     },
+     {
+      "Id": "1553787382",
+      "Name": "Play_Music___Indoor_Shrill",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences & Music\\Play_Music___Indoor_Shrill",
+      "GUID": "{93623C03-9959-4A5C-88AC-197F3DA545DF}",
+      "Color": "15",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "389546834"
+       }
+      ]
+     },
+     {
+      "Id": "2316448637",
+      "Name": "Play_Objective_completed",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Objective_completed",
+      "GUID": "{FBAFC953-03B2-47D7-B0AF-5F212D15DA13}",
+      "Color": "3",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "1513891888",
+      "Name": "Play_Outside_Ambience_and_Music_Blend_Container",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences & Music\\Play_Outside_Ambience_and_Music_Blend_Container",
+      "GUID": "{9F2A7A98-07CC-476A-A44E-31AE5C6D90C7}",
+      "Color": "15",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "629568929"
+       }
+      ]
+     },
+     {
+      "Id": "1479974693",
+      "Name": "Play_Piano",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Piano",
+      "GUID": "{526C2370-BFF8-4EF5-9CC0-024299AF2C21}",
+      "Color": "3",
+      "MaxAttenuation": "100",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "754369548",
+      "Name": "Play_Stinger",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Stinger",
+      "GUID": "{9EEFBBD0-2D4E-486B-A724-554A6E55BB05}",
+      "Color": "3",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "2735023657",
+      "Name": "Play_Telephone_pickup",
+      "ObjectPath": "\\Events\\Default Work Unit\\Phone\\Play_Telephone_pickup",
+      "GUID": "{4DC13EA4-9431-4719-9373-5518BD6ACF08}",
+      "MaxAttenuation": "30",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ],
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "4239446561"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "4029451095",
+      "Name": "Play_Telephone_Ring",
+      "ObjectPath": "\\Events\\Default Work Unit\\Phone\\Play_Telephone_Ring",
+      "GUID": "{8290DAC2-FD6C-4B3D-9077-CC1E22880401}",
+      "MaxAttenuation": "30",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "733000665"
+       }
+      ]
+     },
+     {
+      "Id": "3870462868",
+      "Name": "Play_Thunder",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ambiences & Music\\Play_Thunder",
+      "GUID": "{D6966527-A4AE-4683-ACF9-C5E7F913E883}",
+      "Color": "15",
+      "DurationType": "OneShot",
+      "DurationMin": "119.71193",
+      "DurationMax": "175.71193",
+      "MediaRefs": [
+       {
+        "Id": "144025528"
+       },
+       {
+        "Id": "192499113"
+       },
+       {
+        "Id": "264252044"
+       },
+       {
+        "Id": "411611432"
+       },
+       {
+        "Id": "573851758"
+       },
+       {
+        "Id": "633031076"
+       },
+       {
+        "Id": "644273008"
+       },
+       {
+        "Id": "698173216"
+       }
+      ]
+     },
+     {
+      "Id": "3094035634",
+      "Name": "Play_Toilet_flush",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Toilet_flush",
+      "GUID": "{BE804629-D31A-476F-A8F5-700D0E5EEC98}",
+      "Color": "3",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "2036602390",
+      "Name": "Play_UI_Deselect",
+      "ObjectPath": "\\Events\\Default Work Unit\\User Interface\\Play_UI_Deselect",
+      "GUID": "{65BC530D-6659-416A-BFED-6968FB7EF73B}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "3308548503",
+      "Name": "Play_UI_Select",
+      "ObjectPath": "\\Events\\Default Work Unit\\User Interface\\Play_UI_Select",
+      "GUID": "{FD49E1F8-117B-4C04-819B-8690B62E2FD3}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.09166667",
+      "DurationMax": "0.09166667",
+      "MediaRefs": [
+       {
+        "Id": "311063892"
+       }
+      ]
+     },
+     {
+      "Id": "1303491717",
+      "Name": "Play_Wall_Clock",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Clocks\\Play_Wall_Clock",
+      "GUID": "{F2612BC0-EA17-4837-9E8B-382EAD5D4034}",
+      "Color": "9",
+      "MaxAttenuation": "30",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "220000182"
+       },
+       {
+        "Id": "469463637"
+       },
+       {
+        "Id": "735793067"
+       },
+       {
+        "Id": "792519786"
+       },
+       {
+        "Id": "885414017"
+       },
+       {
+        "Id": "897939845"
+       },
+       {
+        "Id": "900546044"
+       },
+       {
+        "Id": "965109888"
+       }
+      ]
+     },
+     {
+      "Id": "1486568025",
+      "Name": "Play_Water_drip_sequence",
+      "ObjectPath": "\\Events\\Default Work Unit\\SFX General\\Play_Water_drip_sequence",
+      "GUID": "{F175395F-A88D-4432-AF47-BCC3DC40EC1D}",
+      "Color": "9",
+      "MaxAttenuation": "30",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "389546834"
+       }
+      ]
+     },
+     {
+      "Id": "2231213135",
+      "Name": "Set_Surface",
+      "ObjectPath": "\\Events\\Default Work Unit\\Footsteps\\Set_Surface",
+      "GUID": "{7F9BBB61-71C9-4179-87C2-C1AB229FEF68}",
+      "Color": "11",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetSwitch": [
+       {
+        "GroupId": "63790334",
+        "Id": "841620460",
+        "Name": "Concrete",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Concrete",
+        "GUID": "{F7785174-FA81-432E-AC92-562901ED8FD5}"
+       },
+       {
+        "GroupId": "63790334",
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Wood",
+        "GUID": "{35B4EA7B-110E-4113-A606-90897BF3F43D}"
+       },
+       {
+        "GroupId": "63790334",
+        "Id": "2195636714",
+        "Name": "Dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Dirt",
+        "GUID": "{D628BF12-D148-4FA5-96E6-00761494922F}"
+       },
+       {
+        "GroupId": "63790334",
+        "Id": "2412606308",
+        "Name": "Carpet",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Carpet",
+        "GUID": "{81BA2B2C-E5A7-4698-BE1D-12447EE52E71}"
+       },
+       {
+        "GroupId": "63790334",
+        "Id": "2637588553",
+        "Name": "Tile",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Tile",
+        "GUID": "{F3037857-4840-4C13-9F3D-2013E814C897}"
+       },
+       {
+        "GroupId": "63790334",
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Grass",
+        "GUID": "{A4D3778C-AD6B-4556-9CF7-EA478516188D}"
+       }
+      ]
+     },
+     {
+      "Id": "3959166920",
+      "Name": "Stop_Gramophone",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Stop_Gramophone",
+      "GUID": "{88B2A23A-F493-42FC-B096-88F1E8CE6C0A}",
+      "Color": "3",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "MediaRefs": [
+       {
+        "Id": "454732799"
+       }
+      ]
+     }
+    ],
+    "Busses": [
+     {
+      "Id": "1502772432",
+      "Name": "SFX Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SFX Bus",
+      "GUID": "{5F89FD2E-CBA5-4521-8FD9-6EF560C1AB0A}",
+      "Color": "20"
+     },
+     {
+      "Id": "2247540952",
+      "Name": "Footsteps Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Footsteps Bus",
+      "GUID": "{7BBF3419-2A01-4189-85BA-90BF54672D01}",
+      "Color": "11"
+     },
+     {
+      "Id": "3127962312",
+      "Name": "Music Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Music Bus",
+      "GUID": "{D3CD0F76-1225-45A7-BC07-EC116BD19DD1}",
+      "Color": "9"
+     },
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}",
+      "Color": "2",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "587732814"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "3918844680",
+      "Name": "Player Dialogue",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SFX Bus\\Player Dialogue",
+      "GUID": "{48A7DD76-1A8A-46D8-963E-EA7F619274B0}",
+      "Color": "20"
+     },
+     {
+      "Id": "4202237879",
+      "Name": "Ambience Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Ambience Bus",
+      "GUID": "{185B51CB-54A5-4630-B64F-E52AEA6A79C0}",
+      "Color": "4"
+     }
+    ],
+    "AuxBusses": [
+     {
+      "Id": "2212044742",
+      "Name": "Aux_Reverb_Demo",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Aux_Reverb_Demo",
+      "GUID": "{22F4819D-23FD-4B2D-90F0-DD0DF8139677}",
+      "Color": "2",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "484890516"
+        }
+       ]
+      }
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "77985649",
+      "Name": "Bus_Volume_Ambience",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Bus_Volume_Ambience",
+      "GUID": "{408BE174-03DB-4580-ABAF-A790B922E68E}"
+     },
+     {
+      "Id": "194530214",
+      "Name": "Bus_Volume_SFX",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Bus_Volume_SFX",
+      "GUID": "{62ED8408-2049-46E5-ACCB-266ECBB822AF}"
+     },
+     {
+      "Id": "222722569",
+      "Name": "RTPC_Occlusion_LoPass",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\RTPC_Occlusion_LoPass",
+      "GUID": "{22574F28-1D30-4F9E-83F5-568B6408C2AE}"
+     },
+     {
+      "Id": "342905355",
+      "Name": "RTPC_Occlusion_Volume",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\RTPC_Occlusion_Volume",
+      "GUID": "{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}"
+     },
+     {
+      "Id": "2849708270",
+      "Name": "Bus_Volume_Music",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Bus_Volume_Music",
+      "GUID": "{6044C54D-D8D6-42BE-A309-AFD0498B8BD9}"
+     },
+     {
+      "Id": "4073739390",
+      "Name": "Bus_Volume_Footsteps",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Bus_Volume_Footsteps",
+      "GUID": "{E6C11EB0-DA38-4070-B6E7-D05B9B71763B}"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "63790334",
+      "Name": "SurfaceType",
+      "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType",
+      "GUID": "{DBCA8106-E181-4078-8432-43ACEC4A73D3}",
+      "Switches": [
+       {
+        "Id": "841620460",
+        "Name": "Concrete",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Concrete",
+        "GUID": "{F7785174-FA81-432E-AC92-562901ED8FD5}"
+       },
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Wood",
+        "GUID": "{35B4EA7B-110E-4113-A606-90897BF3F43D}"
+       },
+       {
+        "Id": "2185786256",
+        "Name": "Gravel",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Gravel",
+        "GUID": "{00A08082-511F-4A2A-A644-5F04DFDE41B0}"
+       },
+       {
+        "Id": "2195636714",
+        "Name": "Dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Dirt",
+        "GUID": "{D628BF12-D148-4FA5-96E6-00761494922F}"
+       },
+       {
+        "Id": "2412606308",
+        "Name": "Carpet",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Carpet",
+        "GUID": "{81BA2B2C-E5A7-4698-BE1D-12447EE52E71}"
+       },
+       {
+        "Id": "2637588553",
+        "Name": "Tile",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Tile",
+        "GUID": "{F3037857-4840-4C13-9F3D-2013E814C897}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\SurfaceType\\Grass",
+        "GUID": "{A4D3778C-AD6B-4556-9CF7-EA478516188D}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5491A848-6A8F-561C-59BD-18CCAB01F1B1}"
+ }
+}

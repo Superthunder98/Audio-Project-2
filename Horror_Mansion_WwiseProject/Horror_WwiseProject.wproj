@@ -25,15 +25,15 @@
 						<Value Platform="Windows">GeneratedSoundBanks\Windows</Value>
 					</ValueList>
 				</Property>
+				<Property Name="GenerateMultipleBanks" Type="bool" Value="True"/>
 				<Property Name="GenerateSoundBankJSON" Type="bool" Value="True"/>
-				<Property Name="GenerateSoundBankXML" Type="bool" Value="False"/>
 				<Property Name="LicenseKey" Type="string" Value="PHByb2plY3QgaWQ9IjE1ODMzIiBtYXNrPSJNV0pBNjQxMiIgZW5jPSIwIj48bGljZW5zZSBpZD0iMSIgbmFtZT0iV3dpc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMiwzLDQsMTAsMTMsMTQiIGV4cGlyZXM9IjIwMjYtMDUtMTYiICAvPjxsaWNlbnNlIGlkPSIyMiIgbmFtZT0iTGV2ZWwgQSBMaWNlbnNlIiB0eXBlPSIzIiBwbGF0Zm9ybXM9IjIsMyw0LDEwLDEzLDE0IiBleHBpcmVzPSIyMDI2LTA1LTE2IiAgLz48bGljZW5zZSBpZD0iMjEiIG5hbWU9Ik1haW50ZW5hbmNlIiB0eXBlPSIzIiBwbGF0Zm9ybXM9IjIsMyw0LDEwLDEzLDE0IiBleHBpcmVzPSIyMDI2LTA1LTE2IiAgLz48bGljZW5zZSBpZD0iMjUiIG5hbWU9IkFsbCBXd2lzZSBQbHVnLUlucyIgdHlwZT0iMyIgIGV4cGlyZXM9IjIwMjYtMDUtMTYiICAvPjwvcHJvamVjdD4=|1kwhP0mrfnB4TPLj7NgMIH4IsghOb42uS4tdyz3v4ZIkYiNxPvKJtRdtnzn7F/BuCv4aM7aEjRqZlV8tEWwGWwpi5KuAwUnIftcZ0jc1Q5pDRddECZVqKv/h58EXL2RnjViOPDCg2P11glubLhbzfQ9rTvKeg/dRbf+tsaSXLcAcMsKrijx0m4hZokNCQZxm5K+WgpI0oKnwPEGbXqqpzLza5rjry6D9ZJR1D4SZK1smq4QMvSwJR0UpO4TbiCLdzSztjYWbCjGIECWw+203OL8a5mVmU0k5ufc0s9e/WIw61oq4VCoaOF7wQh0azPSzipR3LdnXsvzRHi1FU+sKoA=="/>
 				<Property Name="SoundBankGenerateEstimatedDuration" Type="bool" Value="True"/>
 				<Property Name="SoundBankGenerateHeaderFile" Type="bool" Value="True"/>
 				<Property Name="SoundBankGenerateMaxAttenuationInfo" Type="bool" Value="True"/>
 				<Property Name="SoundBankGeneratePrintGUID" Type="bool" Value="True"/>
 				<Property Name="SoundBankGeneratePrintPath" Type="bool" Value="True"/>
-				<Property Name="SoundBankHeaderFilePath" Type="string" Value="../Assets/StreamingAssets/Audio/GeneratedSoundBanks"/>
+				<Property Name="SoundBankHeaderFilePath" Type="string" Value="T:\nedwh\Documents\Wwise"/>
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>
 						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
@@ -64,6 +64,7 @@
 						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
+				<Property Name="SourceControlGeneratedFiles" Type="bool" Value="True"/>
 				<Property Name="WwiseVersionWhenCreated" Type="string" Value="Branch=wwise_v2023.1|Build=8417|VersionName=v2023.1.1|Config=Release"/>
 			</PropertyList>
 			<MiscSettings>

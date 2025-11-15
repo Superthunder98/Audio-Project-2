@@ -303,7 +303,7 @@
     "Type": "User",
     "GUID": "{68FEB4CA-3C1B-4018-848B-070A85B21B05}",
     "Language": "SFX",
-    "Hash": "{D4B75081-1297-C47B-38B2-CB8EC8FB9FCE}",
+    "Hash": "{D79EB8DA-F623-85D7-11D3-DEF24F62A0A3}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -419,6 +419,14 @@
       "Location": "Memory",
       "ShortName": "Thunder 8.wav",
       "CachePath": "35/{356E105D-CCCF-6C15-B69D-0BCADBE05285}.wem"
+     },
+     {
+      "Id": "692757852",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Light switch.wav",
+      "CachePath": "2A/{2A7B6823-0B51-02BE-C25D-9235E44A0F54}.wem"
      },
      {
       "Id": "698173216",
@@ -538,22 +546,10 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Pickup",
       "GUID": "{363AA09B-E08C-4480-B683-DAB0E5D86E3E}",
       "Color": "3",
-      "MaxAttenuation": "100",
+      "MaxAttenuation": "0",
       "DurationType": "OneShot",
-      "DurationMin": "0.09166667",
-      "DurationMax": "0.09166667",
-      "MediaRefs": [
-       {
-        "Id": "311063892"
-       }
-      ],
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "761385337"
-        }
-       ]
-      }
+      "DurationMin": "0",
+      "DurationMax": "0"
      },
      {
       "Id": "820444688",
@@ -1028,22 +1024,10 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Light_switch",
       "GUID": "{F3E1D625-D9C8-4217-ACA4-73024FCB254C}",
       "Color": "3",
-      "MaxAttenuation": "100",
+      "MaxAttenuation": "0",
       "DurationType": "OneShot",
-      "DurationMin": "0.09166667",
-      "DurationMax": "0.09166667",
-      "MediaRefs": [
-       {
-        "Id": "311063892"
-       }
-      ],
-      "PluginRefs": {
-       "Custom": [
-        {
-         "Id": "761385337"
-        }
-       ]
-      }
+      "DurationMin": "0",
+      "DurationMax": "0"
      },
      {
       "Id": "1553787382",
@@ -1092,7 +1076,7 @@
       "ObjectPath": "\\Events\\Default Work Unit\\Interactables\\Play_Piano",
       "GUID": "{526C2370-BFF8-4EF5-9CC0-024299AF2C21}",
       "Color": "3",
-      "MaxAttenuation": "30",
+      "MaxAttenuation": "100",
       "DurationType": "OneShot",
       "DurationMin": "0.09166667",
       "DurationMax": "0.09166667",
@@ -1511,6 +1495,6 @@
     ]
    }
   ],
-  "FileHash": "{A5175566-EA6E-24AB-132A-D2E761E4F092}"
+  "FileHash": "{4B8F03C4-580E-1FB0-8C33-2D22B1390FA5}"
  }
 }

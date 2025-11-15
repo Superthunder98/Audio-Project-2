@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{7E8E77C1-B7A5-F687-0DED-7DA07883B84A}">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<Custom>
+					<Plugin Id="587732814" Name="Meter (Custom)" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\[Effect Slot [0]: (Meter)]\Meter (Custom)" GUID="{4BB6FE61-4BF9-4A78-B67F-4E3F19AEA298}" LibName="Wwise Meter" LibId="8454147"/>
+				</Custom>
+				<ShareSets>
+					<Plugin Id="484890516" Name="Church_Small_Wood" ObjectPath="\Effects\Factory Effects\RoomVerb\Cathedrals\Church_Small_Wood" GUID="{940CCB47-F031-4C6A-B0E6-726CAC418C02}" LibName="Wwise RoomVerb" LibId="7733251"/>
+				</ShareSets>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" ObjectPath="\Audio Devices\Default Work Unit\No_Output" GUID="{C7B2AABF-73A1-4702-920D-2271758BD4B2}" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" ObjectPath="\Audio Devices\Default Work Unit\System" GUID="{44467448-58B5-4FE8-962A-CB8899B0E28C}" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="1502772432" Name="SFX Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SFX Bus" GUID="{5F89FD2E-CBA5-4521-8FD9-6EF560C1AB0A}" Color="20"/>
+				<Bus Id="2247540952" Name="Footsteps Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Footsteps Bus" GUID="{7BBF3419-2A01-4189-85BA-90BF54672D01}" Color="11"/>
+				<Bus Id="3127962312" Name="Music Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Music Bus" GUID="{D3CD0F76-1225-45A7-BC07-EC116BD19DD1}" Color="9"/>
+				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" Color="2">
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="587732814"/>
+						</Custom>
+					</PluginRefs>
+				</Bus>
+				<Bus Id="3918844680" Name="Player Dialogue" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SFX Bus\Player Dialogue" GUID="{48A7DD76-1A8A-46D8-963E-EA7F619274B0}" Color="20"/>
+				<Bus Id="4202237879" Name="Ambience Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ambience Bus" GUID="{185B51CB-54A5-4630-B64F-E52AEA6A79C0}" Color="4"/>
+			</Busses>
+			<AuxBusses>
+				<AuxBus Id="2212044742" Name="Aux_Reverb_Demo" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Aux_Reverb_Demo" GUID="{22F4819D-23FD-4B2D-90F0-DD0DF8139677}" Color="2">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="484890516"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+			</AuxBusses>
+			<GameParameters>
+				<GameParameter Id="14636318" Name="Aux_Basement_Reverb" ObjectPath="\Game Parameters\Default Work Unit\Aux_Basement_Reverb" GUID="{6D429EAF-C12A-4937-87A6-A12A878228DE}"/>
+				<GameParameter Id="77985649" Name="Bus_Volume_Ambience" ObjectPath="\Game Parameters\Default Work Unit\Bus_Volume_Ambience" GUID="{408BE174-03DB-4580-ABAF-A790B922E68E}"/>
+				<GameParameter Id="194530214" Name="Bus_Volume_SFX" ObjectPath="\Game Parameters\Default Work Unit\Bus_Volume_SFX" GUID="{62ED8408-2049-46E5-ACCB-266ECBB822AF}"/>
+				<GameParameter Id="222722569" Name="RTPC_Occlusion_LoPass" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion_LoPass" GUID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}"/>
+				<GameParameter Id="342905355" Name="RTPC_Occlusion_Volume" ObjectPath="\Game Parameters\Default Work Unit\RTPC_Occlusion_Volume" GUID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}"/>
+				<GameParameter Id="790003343" Name="Aux_Cathedral_Reverb" ObjectPath="\Game Parameters\Default Work Unit\Aux_Cathedral_Reverb" GUID="{938CA322-1F84-4F6D-B86B-2234247A31B4}"/>
+				<GameParameter Id="2849708270" Name="Bus_Volume_Music" ObjectPath="\Game Parameters\Default Work Unit\Bus_Volume_Music" GUID="{6044C54D-D8D6-42BE-A309-AFD0498B8BD9}"/>
+				<GameParameter Id="3298003983" Name="Aux_Mansion_wooden_Reverb" ObjectPath="\Game Parameters\Default Work Unit\Aux_Mansion_wooden_Reverb" GUID="{8EE03E7D-6B2C-4F2E-8B15-14D843A4B85D}"/>
+				<GameParameter Id="4073739390" Name="Bus_Volume_Footsteps" ObjectPath="\Game Parameters\Default Work Unit\Bus_Volume_Footsteps" GUID="{E6C11EB0-DA38-4070-B6E7-D05B9B71763B}"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="1176052424" Name="Location" ObjectPath="\States\Default Work Unit\Location" GUID="{D3A55F78-6D6D-4E07-9E48-99EFBFD8DA2B}">
+					<States>
+						<State Id="438105790" Name="Outside" ObjectPath="\States\Default Work Unit\Location\Outside" GUID="{3A90B1B3-48B6-43F7-80D8-A4BEF418197E}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Location\None" GUID="{2B340803-21E6-4397-8124-6270A1F55ED6}"/>
+						<State Id="3553349781" Name="Inside" ObjectPath="\States\Default Work Unit\Location\Inside" GUID="{23B0A018-7750-49C2-8D06-CA1902E761B6}"/>
+						<State Id="4238926114" Name="Greenhouse" ObjectPath="\States\Default Work Unit\Location\Greenhouse" GUID="{B2298178-1F03-4D9F-8840-EDC3416CE9F5}"/>
+					</States>
+				</StateGroup>
+				<StateGroup Id="1978863953" Name="Upstairs_Downstairs" ObjectPath="\States\Default Work Unit\Upstairs_Downstairs" GUID="{22D73EAE-B3C7-466E-A6AE-C17B6911B76D}">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Upstairs_Downstairs\None" GUID="{C03B9DAB-46D4-425A-8C82-53BB57AD5CB6}"/>
+						<State Id="769052060" Name="Upstairs" ObjectPath="\States\Default Work Unit\Upstairs_Downstairs\Upstairs" GUID="{3524ED09-E3C8-4455-8408-67072D412640}"/>
+						<State Id="4106209011" Name="Downstairs" ObjectPath="\States\Default Work Unit\Upstairs_Downstairs\Downstairs" GUID="{A6094BF8-CD2A-405C-B2EA-6D8DEEA06CF7}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="63790334" Name="SurfaceType" ObjectPath="\Switches\Default Work Unit\SurfaceType" GUID="{DBCA8106-E181-4078-8432-43ACEC4A73D3}">
+					<Switches>
+						<Switch Id="841620460" Name="Concrete" ObjectPath="\Switches\Default Work Unit\SurfaceType\Concrete" GUID="{F7785174-FA81-432E-AC92-562901ED8FD5}"/>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\SurfaceType\Wood" GUID="{35B4EA7B-110E-4113-A606-90897BF3F43D}"/>
+						<Switch Id="2185786256" Name="Gravel" ObjectPath="\Switches\Default Work Unit\SurfaceType\Gravel" GUID="{00A08082-511F-4A2A-A644-5F04DFDE41B0}"/>
+						<Switch Id="2195636714" Name="Dirt" ObjectPath="\Switches\Default Work Unit\SurfaceType\Dirt" GUID="{D628BF12-D148-4FA5-96E6-00761494922F}"/>
+						<Switch Id="2412606308" Name="Carpet" ObjectPath="\Switches\Default Work Unit\SurfaceType\Carpet" GUID="{81BA2B2C-E5A7-4698-BE1D-12447EE52E71}"/>
+						<Switch Id="2637588553" Name="Tile" ObjectPath="\Switches\Default Work Unit\SurfaceType\Tile" GUID="{F3037857-4840-4C13-9F3D-2013E814C897}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\SurfaceType\Grass" GUID="{A4D3778C-AD6B-4556-9CF7-EA478516188D}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{05E35411-45CC-52FB-1E36-9DAD9EA9D3DD}</FileHash>
+</SoundBanksInfo>

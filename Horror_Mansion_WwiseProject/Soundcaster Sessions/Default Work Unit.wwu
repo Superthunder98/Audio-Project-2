@@ -36,10 +36,6 @@
 				<SoundcasterSession Name="SoundCaster footsteps" ID="{3AD64256-0878-4F02-825A-AFD4AD5346E1}">
 					<ModuleList>
 						<Module>
-							<ObjectRef Name="Light switch" ID="{7A0A952E-D755-4FDA-B18C-6EB8A9003CCD}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
-							<Position X="0" Y="0"/>
-						</Module>
-						<Module>
 							<ObjectRef Name="Wood" ID="{0179F37D-0C81-4D01-ACF3-6FC51124C3B1}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
 							<Position X="0" Y="1"/>
 						</Module>

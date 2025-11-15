@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Platform="Windows" BasePlatform="Windows">
+	<PluginLibs>
+		<PluginLib LibName="Wwise Parametric EQ" LibId="6881283" Type="Effect" DLL="AkParametricEQ" StaticLib="AkParametricEQFX"/>
+		<PluginLib LibName="Wwise RoomVerb" LibId="7733251" Type="Effect" DLL="AkRoomVerb" StaticLib="AkRoomVerbFX"/>
+		<PluginLib LibName="Wwise Meter" LibId="8454147" Type="Effect" DLL="AkSoundEngineDLL" StaticLib="AkMeterFX"/>
+		<PluginLib LibName="Wwise Time Stretch" LibId="8519683" Type="Effect" DLL="AkTimeStretch" StaticLib="AkTimeStretchFX"/>
+		<PluginLib LibName="System" LibId="11403271" Type="AudioDevice"/>
+		<PluginLib LibName="Auxiliary" LibId="11796487" Type="AudioDevice"/>
+		<PluginLib LibName="No Output" LibId="11862023" Type="AudioDevice"/>
+	</PluginLibs>
+	<FileHash>{687C6861-B75F-0196-DF28-E02CC564BBE6}</FileHash>
+</PluginInfo>
